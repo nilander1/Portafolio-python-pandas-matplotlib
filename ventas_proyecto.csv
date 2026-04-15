@@ -1,0 +1,101 @@
+ID_Factura,Fecha,Producto,Ciudad,Sucursal,Cantidad,Precio_Unitario,Categoría,Total
+F1000,2025-02-21,Laptop,Mendoza,Sucursal A,7,287,Electrónica,2009
+F1001,2025-01-15,Laptop,Salta,Sucursal A,8,388,Electrónica,3104
+F1002,2025-03-13,Laptop,Buenos Aires,Sucursal C,4,202,Electrónica,808
+F1003,2025-03-02,Monitor,Buenos Aires,Sucursal C,2,32,Electrónica,64
+F1004,2025-01-21,Teclado,Rosario,Sucursal A,3,298,Electrónica,894
+F1005,2025-03-24,Teclado,Córdoba,Sucursal A,1,236,Electrónica,236
+F1006,2025-03-28,Laptop,Salta,Sucursal B,8,374,Electrónica,2992
+F1007,2025-03-16,Teclado,Mendoza,Sucursal A,3,380,Electrónica,1140
+F1008,2025-03-16,Teclado,Córdoba,Sucursal B,7,305,Electrónica,2135
+F1009,2025-03-29,Laptop,Mendoza,Sucursal A,5,292,Electrónica,1460
+F1010,2025-01-24,Teclado,Rosario,Sucursal B,5,388,Electrónica,1940
+F1011,2025-01-03,Auriculares,Rosario,Sucursal C,7,81,Periféricos,567
+F1012,2025-01-22,Mouse,Buenos Aires,Sucursal A,9,103,Periféricos,927
+F1013,2025-02-22,Mouse,Salta,Sucursal A,5,387,Periféricos,1935
+F1014,2025-01-02,Laptop,Mendoza,Sucursal A,1,236,Electrónica,236
+F1015,2025-03-29,Monitor,Córdoba,Sucursal A,1,361,Electrónica,361
+F1016,2025-01-30,Laptop,Rosario,Sucursal B,2,416,Electrónica,832
+F1017,2025-02-07,Monitor,Buenos Aires,Sucursal A,6,206,Electrónica,1236
+F1018,2025-01-02,Mouse,Buenos Aires,Sucursal C,9,38,Periféricos,342
+F1019,2025-03-05,Laptop,Mendoza,Sucursal C,8,196,Electrónica,1568
+F1020,2025-03-01,Auriculares,Rosario,Sucursal A,5,119,Periféricos,595
+F1021,2025-01-21,Teclado,Salta,Sucursal C,1,415,Electrónica,415
+F1022,2025-02-02,Monitor,Rosario,Sucursal A,7,464,Electrónica,3248
+F1023,2025-03-17,Teclado,Mendoza,Sucursal A,5,252,Electrónica,1260
+F1024,2025-02-27,Teclado,Mendoza,Sucursal C,6,422,Electrónica,2532
+F1025,2025-01-22,Laptop,Rosario,Sucursal A,7,95,Electrónica,665
+F1026,2025-03-30,Teclado,Mendoza,Sucursal C,3,284,Electrónica,852
+F1027,2025-02-18,Auriculares,Rosario,Sucursal B,3,474,Periféricos,1422
+F1028,2025-02-28,Teclado,Córdoba,Sucursal A,5,303,Electrónica,1515
+F1029,2025-02-11,Laptop,Rosario,Sucursal B,6,225,Electrónica,1350
+F1030,2025-03-01,Auriculares,Rosario,Sucursal C,9,242,Periféricos,2178
+F1031,2025-03-21,Mouse,Mendoza,Sucursal B,5,403,Periféricos,2015
+F1032,2025-01-15,Teclado,Mendoza,Sucursal B,1,71,Electrónica,71
+F1033,2025-03-03,Laptop,Buenos Aires,Sucursal C,4,358,Electrónica,1432
+F1034,2025-03-03,Mouse,Buenos Aires,Sucursal B,5,386,Periféricos,1930
+F1035,2025-02-16,Mouse,Córdoba,Sucursal B,5,163,Periféricos,815
+F1036,2025-03-03,Monitor,Buenos Aires,Sucursal C,7,392,Electrónica,2744
+F1037,2025-02-20,Auriculares,Rosario,Sucursal B,4,88,Periféricos,352
+F1038,2025-02-24,Teclado,Mendoza,Sucursal C,1,118,Electrónica,118
+F1039,2025-03-05,Laptop,Buenos Aires,Sucursal B,5,415,Electrónica,2075
+F1040,2025-01-03,Monitor,Buenos Aires,Sucursal C,7,44,Electrónica,308
+F1041,2025-02-20,Auriculares,Córdoba,Sucursal C,6,455,Periféricos,2730
+F1042,2025-01-07,Monitor,Córdoba,Sucursal B,5,398,Electrónica,1990
+F1043,2025-01-21,Auriculares,Rosario,Sucursal B,4,488,Periféricos,1952
+F1044,2025-03-14,Auriculares,Mendoza,Sucursal B,2,72,Periféricos,144
+F1045,2025-02-08,Teclado,Córdoba,Sucursal A,4,170,Electrónica,680
+F1046,2025-01-18,Auriculares,Buenos Aires,Sucursal A,3,163,Periféricos,489
+F1047,2025-01-04,Monitor,Mendoza,Sucursal A,1,76,Electrónica,76
+F1048,2025-03-30,Auriculares,Mendoza,Sucursal C,8,58,Periféricos,464
+F1049,2025-03-01,Teclado,Buenos Aires,Sucursal B,5,128,Electrónica,640
+F1050,2025-01-14,Teclado,Córdoba,Sucursal C,4,200,Electrónica,800
+F1051,2025-01-09,Monitor,Buenos Aires,Sucursal A,8,61,Electrónica,488
+F1052,2025-03-31,Mouse,Mendoza,Sucursal B,7,205,Periféricos,1435
+F1053,2025-02-22,Mouse,Salta,Sucursal C,2,442,Periféricos,884
+F1054,2025-01-02,Auriculares,Salta,Sucursal B,1,417,Periféricos,417
+F1055,2025-03-25,Laptop,Rosario,Sucursal C,4,242,Electrónica,968
+F1056,2025-03-01,Auriculares,Buenos Aires,Sucursal B,8,141,Periféricos,1128
+F1057,2025-03-12,Monitor,Buenos Aires,Sucursal A,2,152,Electrónica,304
+F1058,2025-02-13,Monitor,Rosario,Sucursal A,3,182,Electrónica,546
+F1059,2025-01-08,Monitor,Rosario,Sucursal B,1,234,Electrónica,234
+F1060,2025-02-16,Monitor,Rosario,Sucursal C,1,240,Electrónica,240
+F1061,2025-02-04,Monitor,Mendoza,Sucursal A,3,254,Electrónica,762
+F1062,2025-03-19,Teclado,Buenos Aires,Sucursal A,5,350,Electrónica,1750
+F1063,2025-03-22,Mouse,Mendoza,Sucursal A,3,165,Periféricos,495
+F1064,2025-02-05,Monitor,Rosario,Sucursal B,1,258,Electrónica,258
+F1065,2025-02-19,Laptop,Buenos Aires,Sucursal B,1,95,Electrónica,95
+F1066,2025-01-04,Laptop,Mendoza,Sucursal C,8,28,Electrónica,224
+F1067,2025-01-02,Laptop,Mendoza,Sucursal C,2,93,Electrónica,186
+F1068,2025-01-06,Laptop,Rosario,Sucursal C,3,461,Electrónica,1383
+F1069,2025-02-23,Teclado,Buenos Aires,Sucursal B,2,420,Electrónica,840
+F1070,2025-01-04,Laptop,Rosario,Sucursal B,3,272,Electrónica,816
+F1071,2025-02-23,Monitor,Buenos Aires,Sucursal C,7,249,Electrónica,1743
+F1072,2025-03-04,Auriculares,Salta,Sucursal C,1,26,Periféricos,26
+F1073,2025-01-18,Laptop,Córdoba,Sucursal B,8,193,Electrónica,1544
+F1074,2025-03-31,Teclado,Córdoba,Sucursal C,2,160,Electrónica,320
+F1075,2025-02-13,Teclado,Córdoba,Sucursal A,3,187,Electrónica,561
+F1076,2025-02-03,Laptop,Rosario,Sucursal B,9,189,Electrónica,1701
+F1077,2025-03-15,Auriculares,Salta,Sucursal C,7,412,Periféricos,2884
+F1078,2025-03-03,Laptop,Buenos Aires,Sucursal B,4,453,Electrónica,1812
+F1079,2025-01-14,Teclado,Mendoza,Sucursal A,5,302,Electrónica,1510
+F1080,2025-02-17,Mouse,Buenos Aires,Sucursal B,2,141,Periféricos,282
+F1081,2025-01-15,Monitor,Mendoza,Sucursal B,8,213,Electrónica,1704
+F1082,2025-03-13,Teclado,Buenos Aires,Sucursal B,4,24,Electrónica,96
+F1083,2025-03-19,Laptop,Salta,Sucursal B,9,48,Electrónica,432
+F1084,2025-03-28,Monitor,Mendoza,Sucursal A,5,184,Electrónica,920
+F1085,2025-03-03,Laptop,Rosario,Sucursal B,9,441,Electrónica,3969
+F1086,2025-02-09,Laptop,Buenos Aires,Sucursal B,4,358,Electrónica,1432
+F1087,2025-03-26,Mouse,Buenos Aires,Sucursal C,5,155,Periféricos,775
+F1088,2025-03-21,Monitor,Mendoza,Sucursal B,9,384,Electrónica,3456
+F1089,2025-03-23,Monitor,Rosario,Sucursal C,8,340,Electrónica,2720
+F1090,2025-02-22,Mouse,Rosario,Sucursal A,3,361,Periféricos,1083
+F1091,2025-01-24,Teclado,Salta,Sucursal A,1,164,Electrónica,164
+F1092,2025-01-26,Laptop,Rosario,Sucursal A,3,346,Electrónica,1038
+F1093,2025-03-30,Auriculares,Rosario,Sucursal A,4,236,Periféricos,944
+F1094,2025-03-01,Laptop,Rosario,Sucursal C,2,320,Electrónica,640
+F1095,2025-02-10,Laptop,Córdoba,Sucursal B,1,151,Electrónica,151
+F1096,2025-01-29,Teclado,Salta,Sucursal A,7,311,Electrónica,2177
+F1097,2025-01-15,Laptop,Buenos Aires,Sucursal B,8,89,Electrónica,712
+F1098,2025-02-14,Mouse,Mendoza,Sucursal C,7,271,Periféricos,1897
+F1099,2025-03-06,Mouse,Buenos Aires,Sucursal C,5,434,Periféricos,2170
